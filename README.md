@@ -14,13 +14,13 @@ El sistema permite cargar información de países, realizar búsquedas, aplicar 
 
 
 
-Requisitos
+Requisitos:
 
 * Python 3 instalado.
 * Archivo `paises.csv` ubicado en la misma carpeta que el programa (puede generarse mediante la opción "Crear CSV de Prueba").
 
 
-Ejecución
+Ejecución:
 
 1. Guardar el archivo Python en una carpeta.
 2. Abrir una terminal en dicha carpeta.
@@ -31,7 +31,7 @@ tpi_gestion_paises.py
 4. Aparecerá el menú principal con todas las opciones disponibles.
 
 
-Funcionalidades
+Funcionalidades:
 
 1. Cargar Países desde CSV
 
@@ -91,12 +91,12 @@ Calcula y muestra:
 
 Genera automáticamente un archivo CSV con datos precargados.
 
-### 14. Salir
+14. Salir
 
 Finaliza la ejecución del programa.
 
 
-Ejemplos de uso
+Ejemplos de uso:
 
 Ejemplo 1: Agregar un país
 
@@ -156,7 +156,7 @@ Oceanía: 1
 África: 1
 
 
-Estructura de datos
+Estructura de datos:
 
 Cada país se almacena como un diccionario con los siguientes campos:
 
@@ -169,7 +169,7 @@ Cada país se almacena como un diccionario con los siguientes campos:
 
 Todos los países son almacenados dentro de una lista.
 
-Manejo de errores
+Manejo de errores:
 
 El sistema incorpora manejo de excepciones mediante bloques `try/except` para:
 
