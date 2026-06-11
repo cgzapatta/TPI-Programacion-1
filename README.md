@@ -96,7 +96,12 @@ Genera automáticamente un archivo CSV con datos precargados.
 Finaliza la ejecución del programa.
 
 
+
+
 Ejemplos de uso:
+
+
+
 
 Ejemplo 1: Agregar un país
 
@@ -116,17 +121,22 @@ Salida:
 País agregado correctamente.
 
 
+
+
 Ejemplo 2: Buscar un país
 
 Entrada:
 
 Ingrese el nombre o parte del nombre: arg
 
+
 Salida:
 
 Nombre         Población      Superficie     Continente
 
 Argentina      45376763       2780400        América
+
+
 
 
 Ejemplo 3: Error de validación
@@ -140,6 +150,8 @@ Salida:
 Valor ingresado incorrecto. Intente nuevamente.
 
 
+
+
 Ejemplo 4: Estadísticas
 
 Salida:
@@ -147,12 +159,17 @@ Salida:
 ========== ESTADÍSTICAS ==========
 
 País con mayor población: China (1412600000)
+
 País con menor población: Australia (25690000)
 
+
 Promedio de población: 244830369.2
+
 Promedio de superficie: 3312563.4
 
+
 Cantidad de países por continente:
+
 América: 4
 
 Asia: 2
@@ -162,6 +179,7 @@ Europa: 2
 Oceanía: 1
 
 África: 1
+
 
 
 
@@ -177,6 +195,9 @@ Cada país se almacena como un diccionario con los siguientes campos:
 }
 
 Todos los países son almacenados dentro de una lista.
+
+
+
 
 Manejo de errores:
 
