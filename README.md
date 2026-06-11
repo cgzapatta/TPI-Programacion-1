@@ -1,7 +1,9 @@
 README – Sistema de Gestión de Países
 
-Integrantes
+Integrantes:
+
 Andrea Barrios
+
 Carlos Germán Zapatta
 
 Descripción
