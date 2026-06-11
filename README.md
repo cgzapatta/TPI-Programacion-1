@@ -12,14 +12,13 @@ Este proyecto consiste en un sistema de gestión de países desarrollado en Pyth
 
 El sistema permite cargar información de países, realizar búsquedas, aplicar filtros, ordenar registros y obtener estadísticas generales.
 
----
+
 
 Requisitos
 
 * Python 3 instalado.
 * Archivo `paises.csv` ubicado en la misma carpeta que el programa (puede generarse mediante la opción "Crear CSV de Prueba").
 
----
 
 Ejecución
 
@@ -31,7 +30,6 @@ tpi_gestion_paises.py
 
 4. Aparecerá el menú principal con todas las opciones disponibles.
 
----
 
 Funcionalidades
 
@@ -97,7 +95,6 @@ Genera automáticamente un archivo CSV con datos precargados.
 
 Finaliza la ejecución del programa.
 
----
 
 Ejemplos de uso
 
@@ -114,7 +111,6 @@ Salida:
 
 País agregado correctamente.
 
----
 
 Ejemplo 2: Buscar un país
 
@@ -128,7 +124,6 @@ Nombre         Población      Superficie     Continente
 
 Argentina      45376763       2780400        América
 
----
 
 Ejemplo 3: Error de validación
 
@@ -140,7 +135,6 @@ Salida:
 
 Valor ingresado incorrecto. Intente nuevamente.
 
----
 
 Ejemplo 4: Estadísticas
 
@@ -161,7 +155,6 @@ Europa: 2
 Oceanía: 1
 África: 1
 
----
 
 Estructura de datos
 
