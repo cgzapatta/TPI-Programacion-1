@@ -103,9 +103,13 @@ Ejemplo 1: Agregar un país
 Entrada:
 
 Ingrese el nombre del país: Chile
+
 Ingrese la población: 19600000
+
 Ingrese la superficie: 756102
+
 Ingrese el continente: América
+
 
 Salida:
 
@@ -150,10 +154,15 @@ Promedio de superficie: 3312563.4
 
 Cantidad de países por continente:
 América: 4
+
 Asia: 2
+
 Europa: 2
+
 Oceanía: 1
+
 África: 1
+
 
 
 Estructura de datos:
