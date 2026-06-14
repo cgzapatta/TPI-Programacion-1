@@ -6,6 +6,10 @@ Andrea Barrios
 
 Carlos Germán Zapatta
 
+Video:
+https://youtu.be/rJllPWizTGI
+
+
 Descripción
 
 Este proyecto consiste en un sistema de gestión de países desarrollado en Python utilizando estructuras de datos, funciones, manejo de excepciones y lectura de archivos CSV.
